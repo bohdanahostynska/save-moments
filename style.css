@@ -78,23 +78,14 @@ body{
     margin-bottom: 134px;
 }
 
-.text__item{
-    max-width: 696px;
-    margin:0 auto;
+.description{
+    max-width: 1232px;
+    margin: 221px auto;
     position: relative;
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
-    color: #000000; 
 }
 
-.container{
-    position: relative;
-}
 
 .description__text{
-    
     max-width: 696px;
     margin:0 auto;
     font-weight: 400;
@@ -106,34 +97,27 @@ body{
     margin-bottom: 216px;
 }
 
-
-.item{
-   position: absolute;
+.description__item{
     width: 178px;
     height: 121px;
-    background: #BFDEFB;
-    left:0;
-    top:-100px;
- 
+    background: #c2d4e5;
+    position: absolute;
 }
 
-.item--left{
-    position: absolute;
-    left:0;
-    bottom:-200px;
-  
-  
+.description__item--1{
+    left:0px;
+    top:186px;
 }
 
-.item--right{
-    position: absolute;
+.description__item--2{
+    left:0;
+    bottom:200px;
+}
+
+.description__item--3{
     right:0;
-    bottom:-400px;
-  
-
+    bottom: 100px;
 }
-
-
 
 .preview__text{
     max-width: 696px;
