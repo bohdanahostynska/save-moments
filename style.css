@@ -79,7 +79,6 @@ body{
 }
 
 .description{
-    max-width: 1232px;
     margin: 221px auto;
     position: relative;
 }
@@ -210,6 +209,7 @@ body{
     color: #FFFFFF;
     padding-top: 21px;
     padding-bottom: 32px;
+   
    
 } 
 
